@@ -1,9 +1,8 @@
-# Feed balances for ruminant livestock at national scale: case studies in Ethiopia and Burkina Faso
+# Feed balances for ruminant livetock: informing national policy and strategic investment
  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Code for manuscript titled "Feed balances for ruminant livestock at national scale: case studies in 
-Ethiopia and Burkina Faso"
+Code for manuscript titled "Feed balances for ruminant livestock: gridded estimated for data-constrained regions"
 
 The code is set out in three workflows, one for downloading data (`1Data-download`), the second for estimating feed availability (`2Feed-geoprocessing`) and the third for estimating feed balances (`3Balance-estimates`).
 
