@@ -1,4 +1,4 @@
-# Feed balances for ruminant livetock: informing national policy and strategic investment
+# Feed balances for ruminant livestock: informing national policy and strategic investment
  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
